@@ -2,13 +2,7 @@
 
 body {
   background-color: lightblue;
-  font-family: 'Ubuntu', sans-serif;
-        color: rgba(0, 0, 0, 0.8);
-        font-weight: 400;
-        line-height: 1.58;
-        letter-spacing: -.003em;
-        font-size: 20px;
-        padding: 70px;
+/* how import font */
 }
 
 h1 {
